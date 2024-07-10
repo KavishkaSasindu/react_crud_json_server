@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Kavishka Sasindu",
+      "age": "24",
+      "email": "user@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Malindu Duwage",
+      "age": "24",
+      "email": "user1@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Manujaya Manujaya",
+      "age": "23",
+      "email": "manujaya@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "kapila Nirodha",
+      "age": "23",
+      "email": "kapila@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Thisara Rupasinghe",
+      "age": "25",
+      "email": "thisara@gmail.com"
+    },
+    {
+      "id": "9",
+      "name": "Kanishka Pasindu",
+      "age": "24",
+      "email": "kanishka@gmail.com"
+    }
+  ]
+}
